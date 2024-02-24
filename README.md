@@ -42,7 +42,7 @@ I am always open to discussing new projects, technologies, or potential collabor
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=shimafallah&style=flat-square&color=blue" alt=""/>
 </div>-->
-
+<!--
 <div align="center">
       <a href="https://www.buymeacoffee.com/pablodiego">
         <img align="center"  height=60 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" />
