@@ -2,23 +2,22 @@
 <h1>Hi, I'm Mohammad! <br/><a href="https://github.com/MrMaper">Programmer</a> , <a href="https://www.linkedin.com/in/mohammad-roustaei/">AI Researcher & Developer</a>
 
 ## About Me
-I am an AI enthusiast and professional based in Tehran, specializing in the research and development of innovative AI solutions. With a robust background in both theoretical and applied aspects of machine learning and AI, my expertise spans across Social Network Analysis, Bioinformatics, Java Application Development, and Oracle Database Development. My career in the information technology and services industry has been marked by a commitment to excellence, innovation, and a deep understanding of complex data systems.
-
+Experienced AI Engineer with a Master's degree in Artificial Intelligence and over 2 years of professional experience. Specializes in Python, Machine Learning, Data Mining, and PyTorch, with a solid foundation in Object Detection Models, Matlab, Git, NoSQL Database, and Adobe Photoshop. Proven track record of leveraging technical skills in developing innovative solutions and contributing to reputable journals and conferences in the AI field. Known for exceptional problem-solving abilities and a strong commitment to advancing AI technologies.
 
 **My Interests**
 
-`Computer Vision` `Natural Language Processing` `LLM's`
+`Computer Vision` `Natural Language Processing` `Language Modeling` `Quantum Computing` `Robotics`
 
 
 
-## **Connect with me:**
+## **Connect With Me:**
 I am always open to discussing new projects, technologies, or potential collaborations. Feel free to reach out to me here on GitHub or through my professional network.
 
-[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/Mr_Maper)
+[![Follow](https://img.shields.io/twitter/follow/MrMaper?style=social)](https://www.twitter.com/Mr_Maper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-roustaei/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/Mr_Maper/)
 
-
+<!---
 <p>
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white" />
