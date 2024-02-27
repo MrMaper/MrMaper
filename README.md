@@ -2,9 +2,10 @@
 <h1>Hi, I'm Mohammad! <br/><a href="https://github.com/MrMaper">Programmer</a> , <a href="https://www.linkedin.com/in/mohammad-roustaei/">AI Researcher & Developer</a>
 
 ## About Me
-<div style="text-align: justify;">
-Experienced AI Engineer with a Master's degree in Artificial Intelligence and over 2 years of professional experience. Specializes in Python, Machine Learning, Data Mining, and PyTorch, with a solid foundation in Object Detection Models, Matlab, Git, NoSQL Database, and Adobe Photoshop. Proven track record of leveraging technical skills in developing innovative solutions and contributing to reputable journals and conferences in the AI field. Known for exceptional problem-solving abilities and a strong commitment to advancing AI technologies.
-</div>
+<p align="justify">
+  Experienced AI Engineer with a Master's degree in Artificial Intelligence and over 2 years of professional experience. Specializes in Python, Machine Learning, Data Mining, and PyTorch, with a solid foundation in Object Detection Models, Matlab, Git, NoSQL Database, and Adobe Photoshop. Proven track record of leveraging technical skills in developing innovative solutions and contributing to reputable journals and conferences in the AI field. Known for exceptional problem-solving abilities and a strong commitment to advancing AI technologies.
+</p>
+<br>
 **My Interests**
 
 `Computer Vision` `Natural Language Processing` `Language Modeling` `Quantum Computing` `Robotics`
