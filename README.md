@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/MrMaper">Programmer</a> , <a href="https://www.linkedin.com/in/mohammad-roustaei/">AI Researcher & Developer</a>
+<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/MrMaper">Developer</a> , <a href="https://www.linkedin.com/in/mohammad-roustaei/">AI Researcher</a>
 
 ## About Me
 <p align="justify">
